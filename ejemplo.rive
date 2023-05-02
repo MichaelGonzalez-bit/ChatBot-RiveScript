@@ -1,0 +1,237 @@
++ hola
+- ¡Hola! Soy WEBMO, tu asistente de desarrollo web. Dime qué buscas y te recomendaré la mejor tecnología. Usa palabras clave o escribe "ayuda" para recibir sugerencias.
+
+! var html= Te recomiendo utilizar HTML. Es el lenguaje de marcado mas utilizado en el mundo y es muy facil de aprender. 
+! var varcss= Te sugiero utilizar CSS. Con esta tecnologia podras darle un toque unico y original a tu sitio web.
+! var JavaScript= Te recomiendo utilizar JavaScript. Es el lenguaje de programacion mas popular en la actualidad y te permitira crear efectos visuales sorprendentes.
+! var lado_servidor= Si necesitas desarrollar aplicaciones web del lado del servidor te sugiero los siguientes lenguajes\nPHP\nPython\nRuby\nJavascript\n\n Escribe cual de estos lenguajes prefieres 
+! var PHP= Prefieres PHP, entonces te sugiero utilizar PHP y Laravel. Laravel es un framework de PHP que te permitira desarrollar aplicaciones robustas y escalables.
+! var Python= Prefieres Python, entonces te recomiendo utilizar Django o Flask. Django es un framework de alto nivel que te permitira desarrollar aplicaciones complejas de manera facil y rapida, mientras que Flask es una micro-framework que te permitira crear aplicaciones web simples y rapidas.
+! var Ruby= Te sugiero utilizar Ruby y Ruby on Rails. Ruby on Rails es un framework de Ruby que te permitira desarrollar aplicaciones web rapidas y escalables.
+! var cliente= Si necesitas desarrollar aplicaciones web del lado del cliente te sugiero lo siguiente\nReactJs\nVueJs\nAngular\n\n Escribe cual de estos prefieres 
+! var React= Te sugiero utilizar React o Vue.js. React es una biblioteca de JavaScript desarrollada por Facebook que te permitira crear interfaces de usuario interactivas y reutilizables, mientras que Vue.js es un framework progresivo que te permitira construir aplicaciones web complejas de manera facil y rapida.
+! var AngularJS= Te recomiendo utilizar AngularJS. Es un framework de JavaScript desarrollado por Google que te permitira desarrollar aplicaciones web complejas de manera estructurada y organizada.
+! var TypeScript= Te recomiendo utilizar TypeScript. Es un lenguaje de programacion que te permitira agregar tipado estatico a JavaScript y te ayudara a detectar errores antes de tiempo.
+! var Express=  Te sugiero utilizar Express. Es un framework de JavaScript que te permitira desarrollar aplicaciones web rapidas y escalables.
+! var Spring=  Te sugiero utilizar Spring. Es un framework de Java muy popular que te permitira desarrollar aplicaciones web escalables y de alta calidad.
+! var ASPNet= Te recomiendo utilizar ASP.NET. Es un framework de Microsoft que te permitira desarrollar aplicaciones web robustas y escalables.
+! var WordPress=  Te sugiero utilizar WordPress. Es una plataforma muy popular y facil de usar, que te permitira crear sitios web y blogs de manera sencilla y rapida.
+! var AdobeXD=  Te recomiendo utilizar Adobe XD. Es una herramienta muy completa y facil de usar que te permitira diseñar interfaces de usuario interactivas y realizar prototipos de manera rapida.
+! var Figma= Te sugiero utilizar Figma. Es una herramienta de diseño muy completa que te permitira colaborar con otros diseñadores en tiempo real y compartir tus diseños de manera sencilla.
+! var Sketch= Te recomiendo utilizar Sketch. Es una herramienta muy popular entre los diseñadores que te permitira crear diseños vectoriales de alta calidad.
+! var InVision= Te sugiero utilizar InVision. Es una plataforma muy completa que te permitira colaborar con otros diseñadores y desarrolladores para crear prototipos interactivos de alta calidad.
+! var Canva= Te recomiendo utilizar Canva. Es una herramienta muy facil de usar que te permitira crear diseños graficos de manera sencilla y rapida.
+! var Bootstrap= Te sugiero utilizar Bootstrap. Es un framework muy popular que te permitira diseñar sitios web responsivos de manera rapida y sencilla.
+! var Materialize= Te recomiendo utilizar Materialize. Es un framework que te permitira diseñar sitios web responsivos con el estilo y los componentes de Material Design de Google.
+! var Foundation= Te recomiendo utilizar Foundation. Es un framework muy completo que te permitira diseñar sitios web responsivos y personalizados con una gran variedad de componentes y herramientas de personalización.
+! var TailwindCSS= Te recomiendo utilizar Tailwind CSS. Es un framework de diseño web con utilidades de estilo pre-diseñadas para diseños personalizados.
+! var SemanticUI= Te recomiendo utilizar Semantic UI. Es un framework de diseño web centrado en la claridad y la concision.
+! var MVC= Te recomiendo utilizar la arquitectura Modelo-Vista-Controlador MVC. Se busca separar la logica de la aplicacion en componentes principales.
+! var SOA= Te recomiendo utilizar la Arquitectura orientada a servicios SOA.los servicios funcionan de forma independiente y proporcionan intercambios de datos o funcionalidades a sus consumidores. El consumidor solicita información y envía datos de entrada al servicio. El servicio procesa los datos, realiza la tarea y edevuelve una respuesta.
+! var microservicios= Te recomiendo utilizar la arquitectura basada en microservicios. Dividir una aplicacion en servicios pequeños e independientes.
+! var eventos= Te recomiendo utilizar la arquitectura basada en eventos. Construir aplicaciones mas flexibles y escalables basadas en eventos.
+! var cliente-servidor= Te recomiendo utilizar la arquitectura cliente-servidor. Separar la logica de la aplicacion entre cliente y servidor.
+! var RESTful= Te recomiendo utilizar RESTful API. Requiere una API versatil y compatible con cualquier lenguaje de programacion y plataforma.
+! var GraphQL= Te recomiendo utilizar GraphQL. API de consulta de datos para recuperar informacion de multiples fuentes de datos.
+! var SOAP= Te recomiendo utilizar SOAP. Requiere una API para entornos empresariales y aplicaciones de alta seguridad.
+! var WebSocket= Te recomiendo utilizar WebSocket API. Requiere una API para aplicaciones en tiempo real con comunicacion bidireccional.
+! var OAuth= Te recomiendo utilizar OAuth. Requiere una API de autenticacion para acceder a servicios web sin proporcionar contraseñas.
+! var GoogleMaps= Te recomiendo utilizar Google Maps API. Si el cliente requiere integrar mapas interactivos en su aplicacion web.
+! var Stripe= Te recomiendo utilizar Stripe API. Requiere integrar pagos en linea en su aplicacion web.
+! var MySQL= Te recomiendo utilizar MySQL.Una base de datos relacional de codigo abierto con escalabilidad y alta disponibilidad.
+! var PostgreSQL= Te recomiendo utilizar PostgreSQL.Una base de datos relacional con caracteristicas avanzadas y soporte para transacciones ACID
+! var MongoDB= Te recomiendo utilizar MongoDB. una base de datos NoSQL escalable y altamente disponible para manejar grandes volumenes de datos no estructurados
+! var Firebase= Te recomiendo utilizar Firebase. una plataforma de desarrollo facil de usar con base de datos en tiempo real y sistema de autenticacion
+! var Oracle= Te recomiendo utilizar Oracle. una base de datos relacional para grandes aplicaciones empresariales con alta escalabilidad y seguridad
+! var SQLserver= Te recomiendo utilizar SQL Server. una base de datos relacional para aplicaciones web empresariales con soporte para transacciones ACID
+! var GooglePageSpeed= Te recomiendo utilizar Google PageSpeed Insights. analizar la velocidad y el rendimiento de un sitio web en dispositivos moviles y de escritorio
+! var GTmetrix= Te recomiendo utilizar GTmetrix. informacion detallada sobre el rendimiento y la velocidad de un sitio web
+! var WebPageTest= Te recomiendo utilizar Pingdom Tools o WebPageTest. analizar la velocidad de carga de un sitio web desde diferentes ubicaciones geograficas
+! var YSlow= Te recomiendo utilizar YSlow. extension de navegador para analizar el rendimiento de un sitio web
+! var Cloudflare= Te recomiendo utilizar Cloudflare. Plataforma de seguridad y rendimiento para mejorar la velocidad y el rendimiento de un sitio web
+! var WPRocket= Te recomiendo utilizar WP Rocket. Un sitio web en WordPress y necesita mejorar la velocidad de carga
+! var Smush= Te recomiendo utilizar Smush. Optimizar las imagenes de su sitio web en WordPress sin perder calidad
+! var Minify= Te recomiendo utilizar Minify. reducir el tamaño de los archivos CSS y JavaScript de su sitio web
+! var AWS= Te recomiendo utilizar Amazon Web Services AWS, Google Cloud Platform o Microsoft Azure. plataforma de servicios en la nube con una amplia gama de servicios
+! var DigitalOcean= Te recomiendo utilizar DigitalOcean. plataforma de alojamiento web y despliegue de aplicaciones enfocada en servidores virtuales de alta calidad y escalables
+! var Heroku= Te recomiendo utilizar Heroku. plataforma de despliegue de aplicaciones en la nube que admita multiples lenguajes de programacion
+! var GitHubPages= Te recomiendo utilizar GitHub Pages.alojamiento web gratuita para proyectos estaticos
+! var Netlify= Te recomiendo utilizar Netlify. plataforma de alojamiento web y despliegue de aplicaciones enfocada en sitios web estaticos y aplicaciones JAMstack
+
+!var ayuda=A continuación, encontrarás algunas instrucciones para interactuar conmigo:\n\n1. Para hacer preguntas, simplemente escribe tu pregunta de manera clara y específica. Por ejemplo:\n- ¿Requiero una estructura básica de página web que puedo usar?\n- ¿Quiero desarrollar aplicaciones web con tipado estatico?\n\nPara saber que temas estoy capacitado para responder escribe "temas"
+
+!var pregunta=Estoy capacitado para responder preguntas sobre los siguientes temas:\n- Estructura básica de página web\n-Estilos y diseño personalizado\n-Interactividad y animaciones\n-Desarrollo de aplicaciones web del lado del servidor PHP, Python, Ruby\n-Desarrollo de aplicaciones web del lado del cliente React, Vue.js, AngularJS\n-Tipado estático\n-Desarrollo de aplicaciones web con JavaScript del lado del servidor\n-Desarrollo de aplicaciones web en Java y C#\n-Sistemas de gestión de contenido\n-Herramientas de diseño y prototipado\n-Frameworks de diseño web\n-Arquitecturas de aplicaciones web\n-APIs\n-Bases de datos\n-Análisis de velocidad y rendimiento de sitios web\n-Optimización de sitios web\n-Plataformas de servicios en la nube y alojamiento web
+
+
++ [*] (lenguaje de marcado|estructura para una pagina web|etiquetas html|elementos html|atributos html|crear una pagina web|desarrollo web basico|codigo fuente de una pagina|marcado de texto|hipertexto|estructura web|etiquetas|hipertexto|estructura|basica|estructuras) [*]
+- <bot html>
+
++ [*] (hojas de estilo|estilos en cascada|personalizar apariencia|estilizar pagina web|propiedades css|selectores css|reglas de estilo|maquetacion web|colores y fuentes|personalizado|estilos|hojas de estilo|presentacion) [*]
+- <bot varcss>
+
++ [*] (interactividad en|eventos y funciones|dom|manipulacion de elementos|ajax|bibliotecas y frameworks js|funcionalidades dinamicas|interactividad|animaciones|animacion|efectos) [*]
+- <bot JavaScript>
+
++ [*] (desarrollo backend|lado del servidor|programacion del servidor|arquitectura cliente servidor|lado del servidor|servidor) [*]
+- <bot lado_servidor>
+
++ [*] (lenguaje de programacion php|desarrollo web php|aplicaciones php|scripts php|frameworks php|codigo php|php|laravel) [*]
+- <bot PHP>
+
++ [*] (lenguaje de programacion python|desarrollo web python|aplicaciones python|scripts python|frameworks python|django|flask|codigo python|python|django|flask) [*]
+- <bot Python>
+
++ [*] (lenguaje de programacion ruby|desarrollo web ruby|aplicaciones ruby|scripts ruby|frameworks ruby|sinatra|codigo ruby|ruby) [*]
+- <bot Ruby>
+
++ [*] (arquitectura cliente|desarrollo frontend|ui|ux|spa|lado del cliente|cliente|enfoque basado en mvc|mvc) [*]
+- <bot cliente>
+
++ [*] (desarrollo web react|aplicaciones react|componentes react|estado y propiedades en react|react hooks|react native|react|biblioteca|javascript|vue|vuejs|framework progresivo) [*]
+- <bot React>
+
++ [*] (framework angularjs|desarrollo web angularjs|aplicaciones angularjs|componentes angularjs|directivas en angularjs|servicios y dependencias|inyeccion de dependencias|angularjs|angular) [*]
+- <bot AngularJS>
+
++ [*] (lenguaje typescript|desarrollo web typescript|aplicaciones typescript|tipado estatico|clases y objetos en typescript|interfaces en typescript|herencia y polimorfismo|compilador typescript|errores en tiempo de compilacion|typescript y javascript|typescript|tipado estatico) [*]
+- <bot TypeScript>
+
++ [*] (framework spring|desarrollo web spring|aplicaciones spring|spring boot|spring mvc|inyeccion de dependencias en spring|configuracion basada en anotaciones|spring security|arquitectura en capas|java y spring|spring|java|web en java) [*]
+- <bot Spring>
+
++ [*] (framework aspnet|desarrollo web aspnet|aplicaciones aspnet|aspnet core|aspnet mvc|razor pages|web api|microsoft y aspnet|c y net|servicios web|aspnet|c|web en c) [*]
+- <bot ASPNet>
+
++ [*] (plataforma wordpress|desarrollo web wordpress|sitios web en wordpress|blogs en wordpress|temas de wordpress|plugins de wordpress|administracion de contenido|woocommerce|cms|gestion|contenido|gestion de contenido) [*]
+- <bot WordPress>
+
++ [*] (herramienta adobe xd| de interfaces adobe xd|prototipos en adobe xd|maquetacion web adobe xd|ux con adobe xd|de aplicaciones adobe xd|interaccion y animacion|compartir en adobe xd|colaboracion en adobe xd|wireframes y mockups|prototipado|multiplataforma|herramienta de) [*]
+- <bot AdobeXD>
+
++ [*] (herramienta figma|interfaces figma|prototipos en figma|maquetacion web figma|ux con figma|aplicaciones figma|colaboracion en tiempo real|compartir en figma|responsivo|componentes y bibliotecas|basado en la nube|colaboracion en equipo|nube|colaborativa) [*]
+- <bot Figma>
+
++ [*] (herramienta sketch|interfaces sketch|prototipos en sketch|maquetacion web sketch|ux con sketch|aplicaciones sketch|vectorial|componentes y simbolos|exportacion de recursos|responsivo|vectorial|mac os|macos) [*]
+- <bot Sketch>
+
++ [*] (plataforma invision|interfaces invision|prototipos en invision|maquetacion web invision|ux con invision|aplicaciones invision|colaboracion y feedback|prototipado interactivo|inspeccion de|invision studio|prototipado web|colaboracion en equipo|plataforma) [*]
+- <bot InVision>
+
++ [*] (herramienta canva|grafico canva|crear imagenes en canva|plantillas de canva|redes sociales canva|creacion de logotipos canva|tarjetas de presentacion canva|edicion de fotos canva|creacion de infografias canva|carteles y flyers|graficos|facil de usar|herramienta en linea|grafico) [*]
+- <bot Canva>
+
++ [*] (framework boostrap|web responsivo boostrap|plantillas de boostrap|componentes de boostrap|grilla de boostrap|estilos css de boostrap|movil con boostrap|utilidades de boostrap|personalizacion de boostrap|integracion de boostrap|framework web|responsivo|componentes web|web responsivo) {weight=2} [*]
+- <bot Bootstrap>
+
++ [*] (framework materialize|web responsivo materialize|componentes de materialize|estilos css de materialize|movil con materialize|integracion de materialize|plantillas de materialize|personalizacion de materialize|material design|frameworks css similares|basado en material design|web responsivo) {weight=2}  [*]
+- <bot Materialize>
+
++ [*] (framework foundation|web responsivo con foundation|componentes de foundation|grilla de foundation|estilos css de foundation| movil con foundation|herramientas de personalizacion de foundation|integracion de foundation|plantillas de foundation|frameworks css similares|adaptable|web responsivo) {weight=2} [*]
+- <bot Foundation>
+
++ [*] (framework|frameworks|hojas en estilo cascada){weight=2}[*]
+- <bot TailwindCSS>
+
++ [*] (framework|frameworks|crear interfaces de manera responsiva|inferfaz responsiva){weight=2} [*]
+- <bot SemanticUI>
+
++ [*] (modelo vista controlador|mvc){weight=4} [*]
+- <bot MVC>
+
++ [*] (reutilizables|distribuidos|reutilisable|distribuido){weight=2} [*]
+- <bot SOA>
+
++ [*] (dividir|servicios|servicio|arquitectura|arquitecturas) {weight=4}[*]
+- <bot microservicios>
+
++ [*] (flexibles|escalables|flexible|escalable){weight=4} [*]
+- <bot eventos>
+
++ [*] (arquitectura cliente servidor){weight=4} [*]
+- <bot cliente-servidor>
+
++ [*] (versatil|compatible|versatiles|complatibles) {weight=2}[*]
+- <bot RESTful>
+
++ [*] (recuperar informacion|api|fuentes de datos|recuperar) {weight=2}[*]
+- <bot GraphQL>
+
++ [*] (entornos empresariales|entorno|empresarial) {weight=4}[*]
+- <bot SOAP>
+
++ [*] (comunicacion bidireccional|bidireccional|comunicacion) {weight=2}[*]
+- <bot WebSocket>
+
++ [*] (proporcionar claves|claves|clave) {weight=2}[*]
+- <bot OAuth>
+
++ [*] (integrar mapas|mapas|mapa|ubicacion) {weight=4}[*]
+- <bot GoogleMaps>
+
++ [*] (pagos en linea|pagos|pago en linea|pago) {weight=4}[*]
+- <bot Stripe>
+
++ [*] (codigo abierto|alta disponibilidad|disponibilidad|base de datos relacional|relacional){weight=4} [*]
+- <bot MySQL>
+
++ [*] (altamente disponible|base de datos no relacional|no relacional){weight=4} [*]
+- <bot MongoDB>
+
++ [*] (base de datos relacional|transacciones acid|acid|datos relacional) {weight=2}[*]
+- <bot PostgreSQL>
+
++ [*] (base de datos en tiempo real|tiempo real){weight=2} [*]
+- <bot Firebase>
+
++ [*] (grandes aplicaciones empresariales|empresarial|empresariales|base de datos grande){weight=4} [*]
+- <bot Oracle>
+
++ [*] (soporte para transacciones acid|aplicaciones web empresariales|server){weight=4} [*]
+- <bot SQLserver>
+
++ [*] (dispositivos moviles|rendimiento de un sitio|rendimiento del sitio) {weight=2}[*]
+- <bot GooglePageSpeed>
+
++ [*] (rendimiento y velocidad|velocidad|rendimiento){weight=2} [*]
+- <bot GTmetrix>
+
++ [*] (ubicaciones geograficas|ubicaciones|ubicacion|ubicacion geografica|geografica){weight=2} [*]
+- <bot WebPageTest>
+
++ [*] (analizar rendimiento|extension de navegador|rendimiento){weight=2} [*]
+- <bot YSlow>
+
++ [*] (mejorar rendimiento|mejora rendimiento){weight=2} [*]
+- <bot Cloudflare>
+
++ [*] (sitio con wordpress|wordpress|sitios wordpress) {weight=2}[*]
+- <bot WPRocket>
+
++ [*] (optimizar imagenes en wordpress|optimizar imagenes|imagenes) {weight=2}[*]
+- <bot Smush>
+
++ [*] (reducir peso de un archivo|reducir peso|peso){weight=2} [*]
+- <bot Minify>
+
++ [*] (servicios en la nube|nube|servicio en la nube){weight=4} [*]
+- <bot AWS>
+
++ [*] (alojamiento web|alojamiento) {weight=2}[*]
+- <bot DigitalOcean>
+
++ [*] (despligue de aplicaciones|despliegue){weight=2} [*]
+- <bot Heroku>
+
++ [*] (alojamiento gratuito|alojamiento gratis) {weight=4}[*]
+- <bot GitHubPages>
+
++ [*] (alojamiento enfocado a sitios|alojamiento para sitios){weight=2} [*]
+- <bot Netlify>
+
++ [*](ayuda)[*]
+-<bot ayuda>
+
+
++ *
+- Recuerda que soy un robot
+- Intenta hacer tu pregunta de otra manera, por favor verifica que tu preguta no contenga tildes ni espacios de mas
